@@ -1,0 +1,19 @@
+{
+  "name": "generative_art_script",
+  "version": "1.0.0",
+  "description": "Generative art script for creating an unlimited number of NFTs with configurable rarity settings & JSON metadata.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "devStart": "nodemon index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "all": "^0.0.0",
+    "canvas": "^2.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

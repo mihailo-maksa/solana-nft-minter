@@ -1,0 +1,18 @@
+{
+  "0": [
+    { "trait_type": "Skin", "value": "Black" },
+    { "trait_type": "Hair", "value": "Red" },
+    { "trait_type": "Eyes", "value": "Red" },
+    { "trait_type": "Horns", "value": "Golden" },
+    { "trait_type": "Shirt", "value": "Doctor" },
+    { "trait_type": "Nose Ring", "value": "Green" }
+  ],
+  "1": [
+    { "trait_type": "Skin", "value": "Dark brown" },
+    { "trait_type": "Hair", "value": "Black" },
+    { "trait_type": "Eyes", "value": "Sunglasses" },
+    { "trait_type": "Horns", "value": "Dark brown" },
+    { "trait_type": "Shirt", "value": "Standard" },
+    { "trait_type": "Nose Ring", "value": "Gray" }
+  ]
+}
