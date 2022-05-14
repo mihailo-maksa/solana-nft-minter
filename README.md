@@ -21,7 +21,7 @@ npx ts-node "$pathname\metaplex\js\packages\cli\src\candy-machine-v2-cli.ts" min
 **4.) Start the Web Server:**
 
 ```shell
-cd "$pthname\metaplex\js\packages\candy-machine-ui" && yarn install && yarn start
+cd "$pathname\metaplex\js\packages\candy-machine-ui" && yarn install && yarn start
 ```
 
-NOTE: The above command requires custom REACT_APP_CANDY_MACHINE_ID inside the metaplex\js\packages\candy-machine-ui\.env file
+**NOTE:** The above command requires custom **REACT_APP_CANDY_MACHINE_ID** to be set inside the metaplex\js\packages\candy-machine-ui\.env file
